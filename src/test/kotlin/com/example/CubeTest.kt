@@ -1,4 +1,4 @@
-package com.sksamuel.kotest.example.allure
+package com.sksamuel.kotest.example.allure.com.example
 
 import io.kotest.core.spec.style.DescribeSpec
 import io.kotest.data.forAll
@@ -6,7 +6,6 @@ import io.kotest.data.row
 import io.kotest.matchers.doubles.shouldBeExactly
 import kotlin.math.pow
 import io.kotest.datatest.withData
-import io.qameta.allure.Allure
 
 class CubeTest : DescribeSpec({
    describe("when cubing a number") {

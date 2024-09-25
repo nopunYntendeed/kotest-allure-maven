@@ -1,4 +1,4 @@
-package com.sksamuel.kotest.example.allure
+package com.example
 
 import io.kotest.core.config.AbstractProjectConfig
 import io.kotest.extensions.allure.AllureTestReporter

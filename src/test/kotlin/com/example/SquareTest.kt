@@ -1,4 +1,4 @@
-package com.sksamuel.kotest.example.allure
+package com.example
 
 import io.kotest.core.spec.style.FunSpec
 import io.kotest.matchers.doubles.shouldBeExactly
