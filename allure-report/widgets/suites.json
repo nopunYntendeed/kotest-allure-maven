@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"6d70d0dc9107e33b33380f3cce2caa49","name":"com.sksamuel.kotest.example.allure.SquareTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"d7126f0e6766a056d1a8d040ac4d152b","name":"com.sksamuel.kotest.example.allure.CubeTest","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

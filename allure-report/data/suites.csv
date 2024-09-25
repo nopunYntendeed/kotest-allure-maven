@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","negative square","","Wed Sep 25 16:14:12 WEST 2024","passed","Wed Sep 25 16:14:12 WEST 2024","","com.sksamuel.kotest.example.allure.SquareTest","SquareTest",""
+"","8","Describe: when cubing a number should be the cube value","","Wed Sep 25 16:14:12 WEST 2024","passed","Wed Sep 25 16:14:12 WEST 2024","","com.sksamuel.kotest.example.allure.CubeTest","CubeTest",""
+"","0","positive square","","Wed Sep 25 16:14:12 WEST 2024","passed","Wed Sep 25 16:14:12 WEST 2024","","com.sksamuel.kotest.example.allure.SquareTest","SquareTest",""
